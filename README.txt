@@ -1,3 +1,11 @@
+DrinkSafe BAC Calculator and Alcohol Education Website.
+
+This is my website for COMP208 AT3: Software Design Project.
+
+Below is the README from the original creator of the template for this project:
+
+
+
 Twenty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
